@@ -50,3 +50,7 @@ int main()
     imprime(vet, n);
     return 0;
 }
+
+// OBS: 
+// Insertion sort já é otimizado por si só
+// selection sort não há como ser otimizado, pois, de toda forma, o número de comparações é fixo
