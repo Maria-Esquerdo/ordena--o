@@ -8,5 +8,5 @@ using namespace std;
 void bubble_sort (int vet[], int n)
 {
     
-
+    return;
 }
